@@ -12,15 +12,16 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Matheus Duarte Viana 
+- Matricula: 890885
+- Proposta de projeto escolhida: portifolio
+- Breve descrição sobre seu projeto: um projeto sobre o meu proprio portifolio para mostrar os projetos que eu ja desenvolvi
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![image](https://github.com/user-attachments/assets/a885213e-6806-442a-a40e-667916dc1419)
+
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![image](https://github.com/user-attachments/assets/099034f1-0428-4784-9246-100b3e12ebf7)
